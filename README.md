@@ -1,3 +1,5 @@
 # projeto-Luta
  projeto desenvolvido para estudos
-<a href="https://fernandoromeroalves.github.io/Projeto-Starbucks/"><img src="assets/imagens/Captura.png" alt=""></a> 
+ <ul>
+<li><a href="https://fernandoromeroalves.github.io/projeto-Luta/">Projeto luta com Classes</a> </li>
+</ul>
