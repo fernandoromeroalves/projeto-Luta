@@ -1,0 +1,33 @@
+@charset "UTF-8";
+.fightarea{
+    display: flex;
+    gap: 20px;
+}
+#char, #monster{
+    flex: 1;
+}
+.lifebar{
+    height: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.lifebar .bar{
+    height: inherit;
+    background-color: red;
+    border-radius: 5px;
+}
+.log{
+    border: 1px dotted darkslategray;
+    height: 300px;
+    width: 500px;
+    margin: auto;
+    overflow: scroll;
+    background-image: url(../imagens/download.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+        
+}
